@@ -1,0 +1,10 @@
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csprojAssemblyReference.cache
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Properties.Resources.resources
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.GenerateResource.cache
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
+C:\Users\tjton\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\TelephoneDirectory.Contacts.resources
